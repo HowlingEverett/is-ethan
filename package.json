@@ -1,0 +1,11 @@
+{
+  "name": "is-ethan",
+  "version": "1.0.0",
+  "description": "Implementing isEqual in ways that make you sad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@howlingeverett (with inspiration(?)",
+  "license": "ISC"
+}
