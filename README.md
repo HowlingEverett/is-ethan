@@ -16,7 +16,7 @@ npm install is-ethan --save
 Import it, call it, and think about your life.
 
 ```js
-import isEqual from 'is-equal'
+import isEqual from 'is-ethan'
 
 isEqual(5, 5)
 // true
